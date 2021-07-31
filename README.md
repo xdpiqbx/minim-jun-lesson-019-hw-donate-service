@@ -1,0 +1,1 @@
+# minim-jun-lesson-019-hw-donate-service
